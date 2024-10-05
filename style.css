@@ -1,0 +1,19 @@
+.trackMouse{
+    height: 100px;
+    width: 100px;
+    background-color: transparent;
+    margin: auto;
+    border-style: solid;
+    position: relative;
+}
+
+#reward{
+    height: 5px;
+    width: 5px;
+    background-color: transparent;
+    /* border-style: solid;
+    border-color: red; */
+    position: absolute;
+    bottom: 30%;
+    left: 25%;
+}
